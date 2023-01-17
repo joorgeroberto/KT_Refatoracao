@@ -4,13 +4,11 @@
 // Apenas sorvetes de casquinha podem ter cobertura extra.
 function example4_2({premium, cone, toppings}) {
   let price = 15 + 1 + 1;
-  if(!premium) {
-    return price;
-  }
+  if(!premium) return price;
+
   price = 20 + 1;
-  if(!cone) {
-    return price;
-  }
+  if(!cone) return price;
+
   price = 20 + 2;
   return toppings > 1 ? price + 2 : price + 1;
 }
