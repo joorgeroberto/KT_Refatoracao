@@ -1,0 +1,19 @@
+{
+  "name": "refactoring",
+  "version": "1.0.0",
+  "description": "A project to practice refactoring methods from Martin Fowler's Refactoring book",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/OriginalCode/example1.js",
+    "test": "jest"
+  },
+  "author": "Jorge de Carvalho",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.28.0",
+    "jest": "^27.0.3"
+  },
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}

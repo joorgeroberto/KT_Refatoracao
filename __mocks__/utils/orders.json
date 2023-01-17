@@ -1,0 +1,17 @@
+[
+  {
+    "customer": "BigCo I",
+    "quantity": 5,
+    "itemPrice": 100
+  },
+  {
+    "customer": "BigCo II",
+    "quantity": 50,
+    "itemPrice": 300
+  },
+  {
+    "customer": "BigCo III",
+    "quantity": 10,
+    "itemPrice": 750
+  }
+]

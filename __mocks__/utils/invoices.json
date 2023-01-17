@@ -1,0 +1,35 @@
+[
+  {
+    "customer": "Jorge de Carvalho",
+    "orders": [
+      {
+        "amount": 100
+      },
+      {
+        "amount": 200
+      }
+    ]
+  },
+  {
+    "customer": "Paulo Abinair",
+    "orders": [
+      {
+        "amount": 50
+      },
+      {
+        "amount": 40
+      }
+    ]
+  },
+  {
+    "customer": "Soraya Quaresma",
+    "orders": [
+      {
+        "amount": 500
+      },
+      {
+        "amount": 400
+      }
+    ]
+  }
+]

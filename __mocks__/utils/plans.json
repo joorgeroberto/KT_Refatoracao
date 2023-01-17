@@ -1,0 +1,26 @@
+[
+  {
+    "name": "netflix",
+    "summerRate": 55,
+    "regularRate": 60,
+    "regularServiceCharge": 10,
+    "summerStart": "2022-12-21T17:09:58.135Z",
+    "summerEnd": "2023-03-20T17:09:58.135Z"
+  },
+  {
+    "name": "hbo",
+    "summerRate": 50,
+    "regularRate": 30,
+    "regularServiceCharge": 5,
+    "summerStart": "2023-07-21T17:09:58.135Z",
+    "summerEnd": "2023-09-22T17:09:58.135Z"
+  },
+  {
+    "name": "amazon",
+    "summerRate": 2,
+    "regularRate": 1,
+    "regularServiceCharge": 0.5,
+    "summerStart": "2022-12-21T17:09:58.135Z",
+    "summerEnd": "2023-03-20T17:09:58.135Z"
+  }
+]
